@@ -1,0 +1,4 @@
+rdkit
+deepchem
+openmm
+pandas
